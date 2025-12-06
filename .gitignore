@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+@eaDir/.DS_Store@SynoResource
+.DS_Store
+01-testes.ipynb
+20250611.ipynb
+main.py
